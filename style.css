@@ -122,7 +122,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .navbar {
         padding: 20px !important;
     }
@@ -334,7 +334,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .herosec-top h1 {
         font-size: 80px !important;
     }
@@ -580,7 +580,7 @@ html,body{
     cursor: pointer;
     color: #fff;
 }
-@media screen and (max-width:420px) {
+@media screen and (max-width:450px) {
     .studio p{
         font-size: 30px !important;
     }
@@ -979,7 +979,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .revenue-left h1 {
         font-size: 60px !important;
     }
@@ -1237,7 +1237,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .wtop-left h1 {
         font-size: 100px;
         line-height: 90px;
@@ -1379,7 +1379,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .integrate-right h1 {
         font-size: 46px !important;
     }
@@ -1487,7 +1487,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .reviews {
         padding: 40px !important;
     }
@@ -1616,7 +1616,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .opportunities {
         width: 100%;
         padding: 40px;
@@ -1709,7 +1709,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .articles {
         width: 100% !important;
         padding: 40px !important;
@@ -1821,7 +1821,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .joinus-top h1 {
         font-size: 45px !important;
     }
@@ -1999,7 +1999,7 @@ html,body{
     }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 450px) {
     .exp-top h1 {
         font-size: 70px;
         line-height: 80.2px;
